@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.micro.shyam.address&apos; to &apos;com.micro.shyam.controller&apos;&#x0D;&#x0A;- Original project: &apos;address-service-2&apos;&#x0D;&#x0A;- Original element: &apos;address-service-2/src/main/java/com.micro.shyam.address&apos;&#x0D;&#x0A;- Renamed element: &apos;address-service-2/src/main/java/com.micro.shyam.controller&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.micro.shyam.address&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.micro.shyam.address" name="com.micro.shyam.controller" qualified="false" references="true" stamp="1683219587482" textual="false" version="1.0"/>
+</session>
